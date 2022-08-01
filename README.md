@@ -2,7 +2,7 @@
 Autonomous Robot using Raspberry Pi and Roomba
 
 Hardware you will need
- Monitor
+ Monitor
  Raspberry Pi
  Raspberry Pi Camera
  Roomba ICreate2 + dock + USB connecter cable
